@@ -46,4 +46,3 @@ Finally, the results (title, link, and description) are dynamically displayed on
 -Can serve as a reference or journal for personal growth and planning.
 ---
 
-This project is open-source and available under the [MIT License](LICENSE).
