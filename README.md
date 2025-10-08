@@ -37,6 +37,6 @@ Finally, the results (title, link, and description) are dynamically displayed on
 - Provides visual insights through graphs or images, making data easy to understand.
 - Improves productivity by summarizing tasks and accomplishments at a glance.
 - User-friendly interface allows anyone to quickly interpret their weekly progress.
--Can serve as a reference or journal for personal growth and planning.
+- Can serve as a reference or journal for personal growth and planning.
 ---
 
