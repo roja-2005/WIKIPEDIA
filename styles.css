@@ -2,7 +2,6 @@
   font-family: "Roboto", sans-serif;
 }
 
-/* your existing styles... */
 .wiki-search-header {
   border-style: solid;
   border-width: 1px;
@@ -50,5 +49,4 @@
   text-decoration: none;
 }
 
-/* fallback if not using Bootstrap */
 .d-none { display: none !important; }
