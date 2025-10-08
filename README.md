@@ -31,7 +31,7 @@ The app takes a keyword input from the user and sends a request to the **Wikiped
 The API returns relevant search results in JSON format, which are processed using **JavaScript**.  
 Finally, the results (title, link, and description) are dynamically displayed on the webpage.
 
-## Advantages of Weekpedia 
+## Advantages of Wikipedia 
 ---
 - Helps users track and analyze weekly activities in a simple, organized way.
 - Provides visual insights through graphs or images, making data easy to understand.
